@@ -1,0 +1,8 @@
+{
+  "name": "test-repo-small",
+  "version": "1.0.0",
+  "description": "one package dependency for testing",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
